@@ -15,7 +15,7 @@
 **hi, i'm Yethu, a passionate self-taught full stack web developer  from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build. 
 I started learning web development about a year ago. I started with basic HTML and CSS, and then moved on to learning JavaScript. After that, I started learning the MERN stack, which is a JavaScript-based framework for developing web applications. I also started learning about Web 3, which is a new way of developing web applications that uses blockchain technology.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yethukichu&theme=default&color=blue&style=flat&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Yethu-MEin&theme=default&color=blue&style=flat&label=Profile+Views)
 
 
 
@@ -23,7 +23,7 @@ I started learning web development about a year ago. I started with basic HTML a
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br/>📫&nbsp;Reach me [yethukichu55@gmail.com]
  (mailto:yethukichu55@gmail.com)
-<br/>🖥&nbsp; See my portfolio at [https://github.com/yethukichu]**(www.https://github.com/yethukichu)
+<br/>🖥&nbsp; See my portfolio at [https://github.com/Yethu-MEin]**(www.https://github.com/Yethu-MEin)
 <div>
 
   ## 📫 &nbsp;My Contacts
@@ -103,17 +103,17 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 <div align="center"> 
 
- <a href="https://github.com/yethukichu">
-    <img width=450 height=170 align="center" alt="yethukichu" src="https://github-readme-stats.vercel.app/api?username=yethukichu&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+ <a href="https://github.com/Yethu-MEin">
+    <img width=450 height=170 align="center" alt="Yethu-MEin" src="https://github-readme-stats.vercel.app/api?username=Yethu-MEin&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/yethukichu">
-    <img align="center" alt="yethukichu" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yethukichu&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/Yethu-MEin">
+    <img align="center" alt="Yethu-MEin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yethu-MEin&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 <br/>
 <div align="center"> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yethukichu&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=dark)](https://git.io/streak-stats)
 </div>
 
 
