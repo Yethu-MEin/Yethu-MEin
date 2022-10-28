@@ -23,7 +23,7 @@ I started learning web development about a year ago. I started with basic HTML a
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br/>📫&nbsp;Reach me [yethukichu55@gmail.com]
  (mailto:yethukichu55@gmail.com)
-<br/>🖥&nbsp; See my portfolio at [https://github.com/Yethu-MEin](www.https://github.com/Yethu-MEin)
+<br/>🖥&nbsp; See my portfolio at [https://github.com/Yethu-MEin]
 <div>
 
   ## 📫 &nbsp;My Contacts
