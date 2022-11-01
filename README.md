@@ -98,7 +98,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://chat.whatsapp.com/IBxkrA1vflI9ThbbDIlKXX" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-
+<div align="center"> 
 
 📈 my github stats
 
@@ -106,7 +106,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=midnight-purple)](https://git.io/streak-stats)
  
 
-
+<div>
 <br/>
 <div align="center"> 
 
