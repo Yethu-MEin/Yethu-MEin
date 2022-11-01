@@ -104,7 +104,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <div align="center"> 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yethu-MEin&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yethu-MEin&show_icons=true&theme=tokyonight)
   <a href="https://github.com/Yethu-MEin">
     <img align="center" alt="Yethu-MEin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yethu-MEin&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
