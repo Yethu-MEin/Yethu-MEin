@@ -102,11 +102,12 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 my github stats
 <div align="center"> 
-
+  
+<a href="https://github.com/Yethu-MEin">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yethu-MEin&show_icons=true&theme=midnight-purple)
 <a href="https://github.com/Yethu-MEin">
-    <img align="center" alt="Yethu-MEin" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yethu-MEin&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
-  </a>
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=midnight-purple)](https://git.io/streak-stats)
+</div>
 
 </div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yethu-MEin&layout=compact&theme=midnight-purple&cline_height=50)](https://github.com/anuraghazra/github-readme-stats)
@@ -114,8 +115,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 <div align="center"> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=midnight-purple)](https://git.io/streak-stats)
-</div>
+
 
 
 
