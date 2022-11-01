@@ -109,7 +109,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <br/>
 <div align="center"> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=midnight-purple)](https://git.io/streak-stats)
 </div>
 
 
