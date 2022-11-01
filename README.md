@@ -3,7 +3,7 @@
 
 
 <br>
-<div align="center"theme=midnight-purple> 
+<div align="center"> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&pause=1000&color=00F706&center=true&vCenter=true&width=435&lines=Hola......;+I'm+Yethu+;Wish+you+a+good+day%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
 </div>
 
@@ -104,15 +104,15 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yethu-MEin&show_icons=true&theme=midnight-purple)
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=midnight-purple)](https://git.io/streak-stats)
- <div align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yethu-MEin&layout=compact&theme=midnight-purple&cline_height=50)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+ 
+
+
 <br/>
 <div align="center"> 
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yethu-MEin&layout=compact&theme=midnight-purple&cline_height=50)](https://github.com/anuraghazra/github-readme-stats)
 
   
 
