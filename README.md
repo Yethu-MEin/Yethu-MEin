@@ -104,7 +104,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <div align="center"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yethu-MEin&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yethu-MEin&layout=compact&theme=midnight-purple&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yethu-MEin&layout=compact&theme=midnight-purple&card_height=200)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 <br/>
