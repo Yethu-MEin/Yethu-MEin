@@ -104,7 +104,8 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <div align="center"> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yethu-MEin&show_icons=true&theme=midnight-purple)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <br/>
 <div align="center"> 
 
