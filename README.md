@@ -103,7 +103,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 
 <div align="center"> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&midnight-purple)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yethu-MEin&show_icons=true&midnight-purple)
 
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=midnight-purple)](https://git.io/streak-stats)
   
