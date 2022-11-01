@@ -103,9 +103,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 📈 my github stats
 <div align="center"> 
   
-<a href="https://github.com/Yethu-MEin">
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yethu-MEin&show_icons=true&theme=midnight-purple)
-<a href="https://github.com/Yethu-MEin">
+
  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yethu-MEin&theme=midnight-purple)](https://git.io/streak-stats)
 </div>
 
